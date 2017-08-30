@@ -10,7 +10,7 @@ This is sample cucumber project using Node.js. It shows how to upload test resul
 * [NPM](http://npmjs.org)
 * [cucumber-js](https://github.com/cucumber/cucumber-js)
 
-##How to use
+## How to use
 
 * Install cucumber-js globally with:
 ``` shell
