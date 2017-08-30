@@ -1,5 +1,5 @@
 
-#nodejs-cucumber-sample
+# cucumber-javascript-example
 
 This is sample cucumber project using Node.js. It shows how to upload test result file on JIRA instance using [QMetry for JIRA - Test Management](https://marketplace.atlassian.com/plugins/com.infostretch.QmetryTestManager/cloud/overview).  
 
