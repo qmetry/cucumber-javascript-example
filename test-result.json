@@ -1,0 +1,49 @@
+[
+  {
+    "description": "  As a user of Cucumber.js\n  I want to have documentation on Cucumber\n  So that I can concentrate on building awesome applications",
+    "keyword": "Feature",
+    "name": "Example feature",
+    "line": 2,
+    "id": "example-feature",
+    "tags": [],
+    "uri": "features/myfeature.feature",
+    "elements": [
+      {
+        "id": "example-feature;reading-documentation",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Reading documentation",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "I open Google chrome",
+            "match": {
+              "location": "Projects/nodejs-cucumber-sample-master/node_modules/cucumber/lib/support_code_library_builder/define_helpers.js:135"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 7033
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "I search for QMetry",
+            "match": {
+              "location": "Projects/nodejs-cucumber-sample-master/node_modules/cucumber/lib/support_code_library_builder/define_helpers.js:135"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 86
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

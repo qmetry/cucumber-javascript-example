@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-cucumber-sample",
+  "version": "0.0.1",
+  "description": "Minimal project to show how to setup  [cucumber](http: //cukes.info/) for nodejs environment",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js --format=json > test-result.json"
+  },
+  "keywords": [
+    "cucumberjs",
+    "bdd",
+    "setup",
+    "bootstrap",
+    "tdd",
+    "test",
+    "testing",
+    "gherkin",
+    "cucumber"
+  ],
+  "license": "MIT",
+   "dependencies": {
+    "chai": "^1.10.0",
+    "cucumber": "^3.0.0",
+    "express": "^4.15.4",
+    "fs": "0.0.1-security",
+    "node-rest-client": "^3.1.0",
+    "request": "^2.81.0",
+    "zombie": "^5.0.7" 
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
